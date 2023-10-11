@@ -26,7 +26,7 @@ import soliditylogo from "./tech/solidity.png"; web3
 import web3 from "./tech/web3.png"; 
 import tailwind from "./tech/tailwind.png";
 import extjs from "./tech/extjs.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threejs.png";
 
 import tourblink from "./company/tourblink.png";
 import hrc from "./company/hrc.png";
