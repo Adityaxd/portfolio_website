@@ -22,7 +22,7 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import soliditylogo from "./tech/solidity.png"; web3
+import soliditylogo from "./tech/solidity.png"; 
 import web3 from "./tech/web3.png"; 
 import tailwind from "./tech/tailwind.png";
 import extjs from "./tech/extjs.png";
